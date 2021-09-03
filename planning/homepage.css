@@ -2,13 +2,13 @@
 
 header {
     background-image: url("resources/giphy.gif");
-    height: 300px;
+    height: 200px;
     padding: 0px;
 }
 
 h1 {
     text-align: center;
-    padding-top: 30px;
+    padding-top: 15px;
     /*padding: 20px;*/
     /*padding-left: 20px;*/
     color: white;
@@ -16,8 +16,8 @@ h1 {
 }
 
 div {
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 50px;
+    padding-left: 50;
 
 }
 
@@ -31,7 +31,7 @@ H3 {
 }
 
 p {
-    width: 1000px;
+    width: 700px;
     font-size: 25PX;
 }
 
@@ -42,12 +42,13 @@ div2 {
 }
 
 
+
 td {
-    width: 350px;
+    width: 200px;
     border: solid black 3px;
     background-color: gray;
 }
 
 img{
-    width: 900px;
+    width: 500px;
 }
