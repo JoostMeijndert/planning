@@ -1,0 +1,53 @@
+
+
+header {
+    background-image: url("resources/giphy.gif");
+    height: 300px;
+    padding: 0px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    /*padding: 20px;*/
+    /*padding-left: 20px;*/
+    color: white;
+    font-size: 50px;
+}
+
+div {
+    padding-right: 100px;
+    padding-left: 100px;
+
+}
+
+
+div1 {
+    float: left;
+}
+
+H3 {
+    font-size: 35px;
+}
+
+p {
+    width: 1000px;
+    font-size: 25PX;
+}
+
+div2 {
+    font-size: 25px;
+    float: right;
+    padding-right: 0px;
+}
+
+
+td {
+    width: 350px;
+    border: solid black 3px;
+    background-color: gray;
+}
+
+img{
+    width: 900px;
+}
